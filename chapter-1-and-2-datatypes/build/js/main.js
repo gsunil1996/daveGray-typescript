@@ -1,0 +1,22 @@
+"use strict";
+let myName;
+myName = "Sunil";
+console.log(myName);
+let meaningOfLife;
+let isLoading;
+let album;
+let differentTypes;
+myName = "John";
+meaningOfLife = 42;
+isLoading = true;
+album = "Van Halen";
+album = 1984;
+album = true;
+differentTypes = "Sunil";
+differentTypes = 1995;
+const sum = (a, b) => {
+    return a + b;
+};
+let postId;
+let isActive;
+let re = /\w+/g;
